@@ -1,0 +1,184 @@
+<resources>
+    <!-- App Name-->
+    <string name="app_name">Incredible India</string>
+
+    <!-- 4 Categgory Activities -->
+    <string name="category_landmarks">Forts</string>
+    <string name="category_about">About</string>
+    <string name="category_shopping">Foods</string>
+    <string name="category_foodie">Stores</string>
+
+    <!--for foodies, Menu -->
+    <string name="food_biriyani">Biriyani(Non-veg)</string>
+    <string name="food_biriyani_description">Cross Roads Restaurent. Spicy Chicken Curry, Butter chicken and Roast Chicken With Basmati Rice.</string>
+    <string name="food_biriyani_address">49, Market No 1, Block C, Chittaranjan, New Delhi, Delhi 110019</string>
+    <string name="food_biriyani_phone">+011 4174 9696</string>
+    <string name="food_biriyani_sch">Everyday 11am to 11Pm</string>
+    <string name="biriyani_price">$$</string>
+
+    <string name="food_southindian_special">South Indian Special(Veg)</string>
+    <string name="food_southindian_description">South Indian Restaurant, specialised in Vegetarian meals</string>
+    <string name="food_southindian_address">39, College Road, Nungambakkam, Chennai, Tamil Nadu 600006</string>
+    <string name="food_southindian_phone">+044 4203 5265</string>
+    <string name="food_southindian_schedule">11:00–22:00</string>
+
+    <string name="food_sweet">Rasagulla, Gulab Jamun</string>
+    <string name="food_sweet_description">Samgam Sweets, Restaurant specialised in delicious sweets and hot snacks</string>
+    <string name="food_sweet_address">Yelahanka New Town, Bengaluru, Karnataka 560065</string>
+    <string name="food_sweet_phone">+096062 18703</string>
+    <string name="food_sweet_schedule">everyday 9am to 10:30pm</string>
+    <string name="sweet_price">$$$$</string>
+
+    <string name="food_paneer">SP Paneer Dishes</string>
+    <string name="paneer_description">Swagath Restaurant, Spicy Paneer Dishes, Palak Paneer with Butter non, with veg and non-veg combination.</string>
+    <string name="paneer_address">14, Defence Colony Market, New Delhi</string>
+    <string name="paneer_phone">+011 2433 0930</string>
+    <string name="paneer_schedule">9am to 10:30pm</string>
+    <string name="psneer_price">$</string>
+
+    <string name="food_chan_masala">Aloo Matar, Chan Masala</string>
+    <string name="chan_description">Garam Masala Restaurant specialised in Aloo Matar, Chan Masala.</string>
+    <string name="chan_address">11, Marx Engels Beethi Rd, Chowringhee North, Bow Barracks, Kolkata, West Bengal 700069</string>
+    <string name="chan_phone">+089613 33316</string>
+    <string name="chan_schedule">10:00–21:00</string>
+
+    <string name="food_veg2">Vegetarian Specials</string>
+    <string name="veg2_description">Mount View Restaurant, Thinned Basmati Rice with Spicy vegetable Dishes.</string>
+    <string name="veg2_address">Mall Rd, Siyal, Manali, Himachal Pradesh 175131</string>
+    <string name="veg2_phone">+01902 253 617</string>
+    <string name="veg2_schedule">9am to 11pm</string>
+
+    <string name="food_thali">Maharaja Thali</string>
+    <string name="thali_description">Multi award-winning Gulati Restaurent is arguably the pick of the Pandara Market bunch, and focuses on familiar North Indian dishes. Thali
+        Consists of 40 to 70 dishes in single plate.</string>
+    <string name="thali_address">Pandara Rd, Pandara Flats, Market, New Delhi, Delhi 110003</string>
+    <string name="thali_phone">+011 2378 2949</string>
+    <string name="thali_schedule">12:00 to 23:45</string>
+
+    <!--Description & General info-->
+    <string name="info">About</string>
+    <string name="info_description">India, An ancient civilization that was home to many religions, cultures, traditions. India has various Climate zones from under freezing point to skin burn temperatures.
+                There many languages, tribes, ethnic groups, landscapes, forts, palaces, an amazing engineering constructions in ancient times.
+                \n Indian is peninsula, had 29 states, 9 union territories 1208 islands and 46 metropolitan cities.</string>
+
+    <string name="info_stores">Stores</string>
+    <string name="info_stores_description">Did you forget anything in a hurry, do not worry at all, there are convenience stores that were open 24/7. you will find from food and drinks.
+        \n\nStores That Operate 24/7:
+        \n- Arpora
+        \n- Calangute Bazaar
+        \n- Phoenix City
+        \n- Super Mart</string>
+
+    <string name="info_transportation">Transportation Info</string>
+    <string name="info_transport_descp">You can avail any type of transportation.
+        \n Bus
+        \n Metro Train with prepaid card
+        \n Rent a cab or Auto. Recommended through OLA or UBER unless you are great at bargaining
+        \n Ride through bike through Rapido.</string>
+
+    <!-- Best Places for shoppers-->
+
+    <string name="shopping_commercial_street">Commercial Street</string>
+    <string name="shopping_commercial_street_desp">Commercial Street is a shopping province in Bangalore. One of the elite and busiest areas of the city, the street is famous for retailing apparel, footwear, jewellery, electronics; and food and beverage.</string>
+    <string name="shop_commercial_st_address">Tasker Town, Shivaji Nagar, Bengaluru, Karnataka 560001</string>
+    <string name="shop_commercial_st_phn">+91 080 2558 6266</string>
+    <string name="shop_commercial_st_schedule">Open all days of week.</string>
+
+    <string name="shopping_arpora">Arpora Saturday Night Market</string>
+    <string name="shopping_arpora_descp">Hobbies supply shop, like figures and character goods.Selling of second hand items too.</string>
+    <string name="shopping_arpora_address">Calangute - Baga Rd, Arpora, Goa 403519</string>
+    <string name="shopping_arpora_phn">+91 9639882469</string>
+    <string name="shopping_arpora_schedule">Saturday 6pm–12am</string>
+
+    <string name="shopping_cybercity">Cyber City Hub</string>
+    <string name="shopping_cybercity_desp">The DLF Cyberhub which was opened in 2013, has an area of about 4,00,000 sq ft, with cafes, restaurants, pubs,a standup comedy venue, The people co., and a Broadway style theatre. </string>
+    <string name="shopping_cybercity_address">Basement Srt No1 BMS Office, DLF Phase 2, Gurugram, Haryana 122002</string>
+    <string name="shopping_cybercity_phn">+0124 432 1321</string>
+    <string name="shopping_cybercity_schedule">Open 24/7</string>
+
+    <string name="shopping_kishan">Kishan Bazaar</string>
+    <string name="shopping_kishan_desp">Fresh Vegetables and fruits available here. First of its kind farmer\’s market ‘Kissan Bazaar’ comes up in Sikkim</string>
+    <string name="shopping_kishan_address">Sungava, Gangtok, Sikkim 737101</string>
+    <string name="shopping_kishan_phn">+862 900 0000</string>
+    <string name="shopping_kishan_schedule">Evertday</string>
+
+    <string name="Shopping_lake_pichola">Lake Pichola</string>
+    <string name="Shopping_lake_pichola_desp">Situated in Udaipur, Lake Pichola Hotel has and features various facilities, such as an outdoor swimming pool, a garden and a bar.</string>
+    <string name="Shopping_lake_pichola_address">Ambrai Road, Panch Devri Marg, Outside Chandpole, Udaipur, Rajasthan 313001</string>
+    <string name="Shopping_lake_pichola_phn">+0294 243 1465</string>
+    <string name="Shopping_lake_pichola_schedule">operates 24/7</string>
+
+    <string name="shopping_phoenix">Phoenix Market City</string>
+    <string name="shopping_phoenix_desp">Phoenix mall features an 11-screen multiplex from Jazz Cinemas and also Chennai\'s first IMAX screen, biggest shopping mall.</string>
+    <string name="shopping_phoenix_address">142, Velachery Main Rd, Indira Gandhi Nagar, Velachery, Chennai, Tamil Nadu 600042</string>
+    <string name="shopping_phoenix_phn">+044 6651 3007</string>
+    <string name="shopping_phoenix_schedule">Mon-Sun 10:00 to 22:00</string>
+
+    <string name="shopping_police_bazaar">Police Bazaar</string>
+    <string name="shopping_police_bazaar_desp">Police Bazar of Shillong is a famous shopping haunt, which is on the priority list of locals as well as tourists. It is a modern market that has a number of hotels, shops and eating joints, catering to varied needs of every visitor. </string>
+    <string name="shopping_police_bazaar_address">Downtown, Shillong, India‎</string>
+    <string name="shopping_police_bazaar_phn">+981 618 8942</string>
+    <string name="shopping_police_bazaar_schedule">10:00 AM - 8:00 PM</string>
+
+    <string name="shopping_jodpur">Jodhpur Evening Market</string>
+    <string name="shopping_jodpur_description">Spices, Grocey Market. Bustling city marketplace with eateries, craft vendors, apparel and an iconic clock tower.</string>
+    <string name="shopping_jodpur_address">Clock Tower, Jodhpur, Rajasthan 342001</string>
+    <string name="shopping_jodpur_phone">+981 679 9999</string>
+    <string name="shop_biccamera_schedule">10:30 AM - 9:00 PM</string>
+
+    <string name="Shopping_chai">Chai Point</string>
+    <string name="Shopping_chai_desp">The country\'s oldest and largest chain of tea outlets started out in Bangalore</string>
+    <string name="Shopping_chai_address">Trinity, MG Road, Craig Park Layout, Bengaluru 560001</string>
+    <string name="Shopping_chai_phn">+888 014 1000</string>
+    <string name="Shopping_chai_schedule">08:00 AM - 08:00 PM</string>
+
+
+    <!--Popular Tourist Destinations & Landmarks-->
+
+    <string name="t_akshardham">Akshardham</string>
+    <string name="t_akshardham_desp">Akshardham means the divine abode of God. It is hailed as an eternal place of devotion, purity and peace.</string>
+    <string name="t_akshardham_address">NH 24, Akshardham Setu, New Delhi 110092.</string>
+    <string name="t_akshardham_phone">+91 11 4344 2344</string>
+    <string name="t_akshardham_schedule">9:30am - 6:30pm</string>
+    <string name="t_akshardham_price">Free</string>
+
+    <string name="t_vidhana_soudha">Vidhana Soudha</string>
+    <string name="t_vidhana_soudha_desp">The Vidhana Soudha located in Bangalore, is the seat of the state legislature of Karnataka.</string>
+    <string name="t_vidhana_soudha_address">Sampangi Rama Nagara, Bengaluru 560001</string>
+    <string name="t_vidhana_soudha_phone">+080 222520780</string>
+    <string name="t_vidhana_soudha_schedule">9:30am - 6:30pm></string>
+    <string name="t_vidhana_soudha_cost">Free</string>
+
+    <string name="t_jagmandir">Jagmandir</string>
+    <string name="t_jagmandir_desp">Jag Mandir is a palace built on an island in the Lake Pichola. It is also called the "Lake Garden Palace".</string>
+    <string name="t_jagmandir_address"> Pichola, Udaipur, Rajasthan 313001</string>
+    <string name="t_jagmandir_phone">+0294 242 4186</string>
+    <string name="t_jagmandir_schedule">10am – 6pm</string>
+    <string name="t_jagmandir_cost">Free</string>
+
+
+    <string name="t_north_east">North East Landscapes</string>
+    <string name="t_north_east_description">Transparent river Uwmgot Meghalaya, Snowy Hill Stations Himachal Pradesh, Sela Lake Arunachal, Ziro Valley</string>
+    <string name="t_north_east_address">Dawki Meghalaya, Shimla Himachal Pradesh, Arunachal Pradesh</string>
+    <string name="t_north_east_phone">+91 11 4344 2344</string>
+    <string name="t_north_east_schedule">24/7</string>
+    <string name="t_north_east_cost">Free</string>
+
+    <string name="t_tijara">Tijara Fort</string>
+    <string name="t_tijara_desp">Tijara Fort has now been converted into a heritage hotel by the Neemrana Hotels group.</string>
+    <string name="t_tijara_address">Hasanpurmafi, Tijara, Rajasthan 301411</string>
+    <string name="t_tijara_phone">+095878 85003</string>
+    <string name="t_tijara_schedule">24/7</string>
+
+    <string name="t_rambagh_palace">Rambagh Palace</string>
+    <string name="t_rambagh_desp">The Royal Residence of The Maharajas of Jaipur. Heritage Walks. Vintage Car Rides. Outdoor Indoor Pools. Signature Jiva Spa. Award Winning Hospitality. Amenities: Fitness Centre, Swimming Pool, Complimentary Wi-Fi, 24 Hr In-Room Dining.</string>
+    <string name="t_rambagh_address">Bhawani Singh Rd, Rambagh, Jaipur, Rajasthan 302005</string>
+    <string name="t_rambagh_phone">+0141 238 5700</string>
+    <string name="t_rambagh_schedule">24/7</string>
+
+    <string name="t_lakshmivilas">Lakshmi Vilas Palace</string>
+    <string name="t_lakshmivilas_description">The Laxmi Vilas Palace in Vadodara, Gujarat, India, was constructed by the Gaekwad family who ruled the Baroda State.</string>
+    <string name="t_lakshmivilas_address">J N Marg, Moti Baug, Vadodara, Gujarat 390001</string>
+    <string name="t_lakshmivilas_phone">+072279 39902</string>
+    <string name="t_lakshmivilas_schedule">9:30am – 6pm</string>
+</resources>

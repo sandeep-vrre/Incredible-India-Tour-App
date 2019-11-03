@@ -1,0 +1,4 @@
+<resources>
+    <!--for devices moe than 820dp-->
+    <dimen name="activity_horizontal_margin">64dp</dimen>
+</resources>
